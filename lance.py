@@ -6,15 +6,12 @@ def lancer_de():
     print(f"Le dé affiche : {de}")
 
     if de == 6:
-<<<<<<< HEAD
         print("\(°o°)/ Gagné !")
     elif de == 1:
         print("Perdu...")
-=======
         print("🎉 Gagné !")
     elif de == 1:
         print("😢 Perdu...")
->>>>>>> 4f08dd5c699ebb82cbf8224c23e952b2c3be6d7b
     else:
         print("Pas de gain, réessaie !")
 
